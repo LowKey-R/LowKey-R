@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rifky aka LowKey-R, a Indonesian Mobile Developer who enjoyed using ![Flutter](https://github.com/flutter/flutter) to build the apps.
+I am Rifky aka LowKey-R, a Indonesian Mobile Developer who enjoyed using [Flutter](https://github.com/flutter/flutter) to build the apps.
 
 ### Touch Me
 
